@@ -1,5 +1,6 @@
 # Flutter fortune cookies
 > This is a WIP.
+
 Fortune cookies for developers. A simple Flutter application.
 
 ![](https://raw.githubusercontent.com/ilmalte/flutter-fortune-cookies/master/documents/preview.gif)
