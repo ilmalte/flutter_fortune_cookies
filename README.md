@@ -3,9 +3,9 @@
 
 Fortune cookies for developers. A simple Flutter application.
 
-![](https://raw.githubusercontent.com/ilmalte/flutter-fortune-cookies/master/documents/preview.gif)
+![](https://raw.githubusercontent.com/ilmalte/flutter_fortune_cookies/master/documents/preview.gif)
 
-[Try is inspired on a web application I realized few months ago while trying an architecture in Angular, feel free to give a look at it!](https://github.com/ilmalte/developer-fortune-cookies)
+[This is inspired on a web application I realized few months ago while trying an architecture in Angular, feel free to give a look at it!](https://github.com/ilmalte/developer-fortune-cookies)
 
 ## Why this project?
 Flutter fortune cookies is a project with the aim of starting learning Flutter.
