@@ -1,5 +1,4 @@
 # Flutter fortune cookies
-> This is a WIP.
 
 Fortune cookies for developers. A simple Flutter application.
 
