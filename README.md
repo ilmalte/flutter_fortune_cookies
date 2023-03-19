@@ -7,7 +7,7 @@ Fortune cookies for developers. A simple Flutter application.
 [This is inspired on a web application I realized few months ago while trying an architecture in Angular, feel free to give a look at it!](https://github.com/ilmalte/developer-fortune-cookies)
 
 ## Why this project?
-Flutter fortune cookies is a project with the aim of starting learning Flutter.
+Flutter fortune cookies is a project with the aim of starting to learn Flutter.
 
 ## What you can do?
 Basically you can open developer fortune cookies and get inspired.
